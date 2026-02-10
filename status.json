@@ -9,6 +9,16 @@
             "countdown_start_time": null,
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "PIyB3M4lyDRX",
+            "android_id": null,
+            "referred_by": "jXc8FPWZ2TDc",
+            "referred_to": [],
+            "status": "inactive",
+            "countdown_start_time": null,
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ]
 }
