@@ -1,23 +1,14 @@
 {
-  "scripts": [
-    {
-      "id": "JUANA001",
-      "android_id": "juana001_device",
-      "referred_by": "ADMIN",
-      "referred_to": [],
-      "status": "active",
-      "countdown_start_time": "2026-12-31T23:59:59",
-      "affiliation_balance": 0,
-      "plan": "Premium",
-      "max_tasks": 1000,
-      "features": [
-        "instagram",
-        "telegram",
-        "auto_like"
-      ]
-    }
-  ],
-  "announcement": "Serveur de Juana-archer",
-  "server_version": "1.0",
-  "update_url": "https://github.com/Juana-archer/license-server"
+    "licenses": [
+        {
+            "id": "BanniiBqq3Bdr8",
+            "android_id": null,
+            "referred_by": "BarhpLe84xF",
+            "referred_to": [],
+            "status": "inactive",
+            "countdown_start_time": null,
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        }
+    ]
 }
